@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Game Dev Tuition</title>
+  <meta name="description" content="Get in touch to book 1 to 1 online game development tuition in Unity, Blender, VR and AR.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body id="top">
+
+  <!-- ===== HEADER ===== -->
+  <header class="site-header">
+    <nav class="nav container">
+      <a href="index.html" class="logo"><span class="logo-mark">▶</span> Game Dev Tuition</a>
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html" class="btn btn-primary" aria-current="page">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-header">
+      <div class="container">
+        <span class="eyebrow">Contact</span>
+        <h1>Let's talk about your learning journey</h1>
+        <p class="lead">Send us a message and we'll get back to you to talk about the strategy that suits you.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container contact-grid">
+        <div class="contact-info">
+          <div class="card">
+            <div class="card-icon">💬</div>
+            <h3>Online over Discord</h3>
+            <p>All sessions are 1 to 1 and remote, on your own PC at home.</p>
+          </div>
+          <div class="card">
+            <div class="card-icon">💷</div>
+            <h3>£35 per hour</h3>
+            <p>Book as few, or as many sessions as you like.</p>
+          </div>
+          <div class="card">
+            <div class="card-icon">✔</div>
+            <h3>Certified &amp; DBS checked</h3>
+            <p>Our tutors are Certified Unity Developers with full DBS check.</p>
+          </div>
+          <div class="card">
+            <div class="card-icon">✉️</div>
+            <h3>Email us directly</h3>
+            <p><a href="mailto:nick.dunn2019@gmail.com">nick.dunn2019@gmail.com</a></p>
+          </div>
+        </div>
+
+        <!-- Form is sent to your email by FormSubmit (formsubmit.co). See README.md for first-time activation. -->
+        <form class="form" action="https://formsubmit.co/nick.dunn2019@gmail.com" method="POST">
+          <input type="hidden" name="_subject" value="New enquiry from gamedevtuition.com">
+          <input type="hidden" name="_next" value="https://www.gamedevtuition.com/thank-you.html">
+          <input type="hidden" name="_template" value="table">
+          <input type="text" name="_honey" class="hidden-field" tabindex="-1" autocomplete="off">
+
+          <div class="form-row">
+            <label for="name">Your name</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <div class="form-row">
+            <label for="email">Email address</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <div class="form-row">
+            <label for="topic">What would you like help with?</label>
+            <select id="topic" name="topic">
+              <option>Unity development</option>
+              <option>Blender 3D modelling</option>
+              <option>Virtual Reality (Meta All In One SDK)</option>
+              <option>Augmented Reality / mobile games</option>
+              <option>Support with my college games course</option>
+              <option>Not sure yet / other</option>
+            </select>
+          </div>
+          <div class="form-row">
+            <label for="message">Your message</label>
+            <textarea id="message" name="message" placeholder="Tell us a bit about your experience and what you'd like to achieve." required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Send message</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <p style="margin:0">© <span class="year">2026</span> Game Dev Tuition. All rights reserved.</p>
+      <ul class="footer-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
