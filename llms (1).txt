@@ -1,0 +1,27 @@
+# Game Dev Tuition
+
+> Game Dev Tuition offers 1 to 1 online tuition in game design and development, including Unity, Blender 3D modelling, Virtual Reality (Meta All In One SDK), Augmented Reality and mobile games. Sessions take place remotely over Discord and cost £35 per hour. The tutors are Certified Unity Developers with a full DBS check.
+
+Key facts:
+
+- Over 14 years of Unity development experience.
+- 8 years of teaching game design to 16–21 year olds at UK colleges and online.
+- Suitable for students who want extra support with a games development course, and for beginners starting out.
+- Students learn at home on their own gaming PC. Unity and Blender are both free to download.
+- Tasks are set after each session to complete between sessions.
+- Book as few or as many sessions as you like.
+
+## Pages
+
+- [Home](https://www.gamedevtuition.com/): Overview of the tuition, what is taught, how sessions work, pricing and frequently asked questions.
+- [Resources](https://www.gamedevtuition.com/resources.html): Free YouTube video tutorials, the Unity Learn "Create with Code" course, and download links for Unity and Blender.
+- [Blog](https://www.gamedevtuition.com/blog.html): Articles on learning game development, getting set up with Unity and Blender, and what to expect from a 1 to 1 session.
+- [Contact](https://www.gamedevtuition.com/contact.html): Enquiry form for booking 1 to 1 tuition.
+
+## Community
+
+- [Discord](https://discord.gg/FJhWcV69PB): The Game Dev Tuition Discord server, where lessons take place and learners can ask questions.
+
+## Contact
+
+- Email: nick.dunn2019@gmail.com

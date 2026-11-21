@@ -1,0 +1,8 @@
+# robots.txt for www.gamedevtuition.com
+# Allows all search engines and AI crawlers to read the site.
+
+User-agent: *
+Allow: /
+Disallow: /thank-you.html
+
+Sitemap: https://www.gamedevtuition.com/sitemap.xml
